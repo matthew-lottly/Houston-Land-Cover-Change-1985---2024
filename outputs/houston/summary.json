@@ -1,0 +1,11 @@
+{
+  "region": "houston",
+  "counties": 1,
+  "region_cells": 74646,
+  "region_km2": 4665.4,
+  "common_footprint_km2": 4661.1,
+  "pct_footprint": 99.9,
+  "agree_coarse_1985_pct": 72.3,
+  "agree_detailed_1985_pct": 64.2,
+  "pct_cells_class_changed_1938_2024": 70.9
+}

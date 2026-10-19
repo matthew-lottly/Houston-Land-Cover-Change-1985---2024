@@ -1,0 +1,11 @@
+{
+  "region": "gulf",
+  "counties": 57,
+  "region_cells": 2146783,
+  "region_km2": 134173.9,
+  "common_footprint_km2": 133817.4,
+  "pct_footprint": 99.7,
+  "agree_coarse_1985_pct": 71.7,
+  "agree_detailed_1985_pct": 60.2,
+  "pct_cells_class_changed_1938_2024": 38.8
+}
